@@ -1,0 +1,229 @@
+\begin{thebibliography}{1}
+
+%\bibitem{NIM:Fragaetal}
+%  M.~M.~F.~R.~Fraga {\it et al}, 
+%  ``The GEM scintillation in He CF-4, Ar CF-4, Ar TEA and Xe TEA mixtures,''
+%  Nucl.\ Instrum.\ Meth.\ A {\bf 504} (2003) 88.
+%  doi:10.1016/S0168-9002(03)00758-7
+%
+%  \bibitem{NIM:Margatoetal}
+%  L.~M.~S.~Margato {\it et al}, 
+%  ``Performance of an optical readout GEM-based TPC,''
+%  Nucl.\ Instrum.\ Meth.\ A {\bf 535} (2004) 231.
+%  doi:10.1016/j.nima.2004.07.126
+%  
+
+%\cite{Battat:2016xxe}
+\bibitem{Battat:2016xxe}
+  J.~B.~R.~Battat {\it et al.} [DRIFT Collaboration],
+  %``Low Threshold Results and Limits from the DRIFT Directional Dark Matter Detector,''
+  Astropart.\ Phys.\  {\bf 91} (2017) 65
+  doi:10.1016/j.astropartphys.2017.03.007
+  [arXiv:1701.00171 [astro-ph.IM]].
+  %%CITATION = doi:10.1016/j.astropartphys.2017.03.007;%%
+  %21 citations counted in INSPIRE as of 16 Jan 2020
+
+
+
+%\cite{Battat:2016pap}
+\bibitem{Battat:2016pap}
+  J.~B.~R.~Battat {\it et al.},
+  %``Readout technologies for directional WIMP Dark Matter detection,''
+  Phys.\ Rept.\  {\bf 662} (2016) 1
+  doi:10.1016/j.physrep.2016.10.001
+  [arXiv:1610.02396 [physics.ins-det]].
+  %%CITATION = doi:10.1016/j.physrep.2016.10.001;%%
+  %33 citations counted in INSPIRE as of 16 Jan 2020
+
+%\cite{Battat:2014van}
+\bibitem{Battat:2014van}
+  J.~B.~R.~Battat {\it et al.} [DRIFT Collaboration],
+  %``First background-free limit from a directional dark matter experiment: results from a fully fiducialised DRIFT detector,''
+  Phys.\ Dark Univ.\  {\bf 9-10} (2015) 1
+  doi:10.1016/j.dark.2015.06.001
+  [arXiv:1410.7821 [hep-ex]].
+  %%CITATION = doi:10.1016/j.dark.2015.06.001;%%
+  %53 citations counted in INSPIRE as of 16 Jan 2020
+
+
+\bibitem{Zichichi} 
+J. Seguinot, T. Ypsilantis and A. Zichichi, Conf. Proc. C 920310 (1992) 289.
+
+
+\bibitem{Cattadori} 
+C. Arpesella, C. Broggini and C. Cattadori, Astropart. Phys. 4 (1996) 333. doi:10.1016/0927- 6505(95)00051-8
+%C. Arpesella, C. Broggini, C. Cattadori,
+%A possible gas for solar neutrino spectroscopy,
+%Astroparticle Physics,
+%Volume 4, Issue 4,
+%1996,
+%Pages 333-341,
+%ISSN 0927-6505,
+%https://doi.org/10.1016/0927-6505(95)00051-8.
+
+  \bibitem{CYGNUSweb} https://web.infn.it/cygnus/
+    
+    \bibitem{CYGNO:2019aqp} 
+  G.~Mazzitelli {\it et al.} [CYGNUS Collaboration],
+  %``CYGNO: a CYGNUs Collaboration 1 m$^3$ Module with Optical Readout for Directional Dark Matter Search,''
+  Conference Record of 2018 IEEE NSS/MIC/RTSD
+  [arXiv:1901.04190 [physics.ins-det]].
+  %%CITATION = ARXIV:1901.04190;%%
+  %3 citations counted in INSPIRE as of 16 Jan 2020
+
+
+\bibitem{Sauli}
+F.Sauli, Nucl.\ Instrum.\ Meth.\ A  {\bf 386} (1997) 531
+%\bibitem{MPGD}
+%M.Titov, "Perspectives of Micro-Pattern Gaseous Detector Technologies for Future Physics Projects"
+%@inproceedings{Titov:2013hmq,
+ %    author         = "Titov, Maxim",
+ %    title          = "{Perspectives of Micro-Pattern Gaseous Detector
+ %                      Technologies for Future Physics Projects}",
+ %    booktitle      = "{Proceedings, CMS Workshop: Perspectives on Physics and
+  %                     on CMS at Very High Luminosity, HL-LHC: Alushta, Crimea,
+  %                     Ukraine, May 28–31, 2012}",
+  %   year           = "2013",
+  %   pages          = "241-258",
+  %   eprint         = "1308.3047",
+  %   archivePrefix  = "arXiv",
+   %  primaryClass   = "physics.ins-det",
+   %  SLACcitation   = "%%CITATION = ARXIV:1308.3047;%%"
+%}
+
+
+
+\bibitem{JINST:nitec} 
+    Baracchini, E. and Cavoto, G. and Mazzitelli, G. and
+    Murtas, F. and Renga, F. and Tomassini, S.",
+    Negative Ion Time Projection Chamber operation with
+    SF$_6$ at nearly atmospheric pressure, JINST (2018), 13,P04022, doi: 10.1088/1748-0221/13/04/P04022
+    
+\bibitem{NIM:Marafinietal} 
+    M.~Marafini {\it et al.}, 
+    ``ORANGE: A high sensitivity particle tracker based on optically read out GEM,''
+    Nucl.\ Instrum.\ Meth.\ A {\bf 845}, 285 (2017).
+    doi:10.1016/j.nima.2016.04.014 
+
+  \bibitem{JINST:Marafinietal}
+    M. Marafini {\it et al.}, 
+    ``High granularity tracker based on a Triple-GEM optically read by a CMOS-based camera,''
+    JINST 10 (2015) 12, P12010 doi:10.1088/1748-0221/10/12/P12010.
+    
+
+  
+  \bibitem{Antochi:2018otx}
+  V.~C.~Antochi {\it et al.},
+  ``Combined readout of a triple-GEM detector,''
+  JINST {\bf 13} (2018) no.05,  P05001
+  doi:10.1088/1748-0221/13/05/P05001
+  [arXiv:1803.06860 [physics.ins-det]].
+
+
+
+\bibitem{Marafini:2016kzd} 
+  M.~Marafini, V.~Patera, D.~Pinci, A.~Sarti, A.~Sciubba and E.~Spiriti,
+  ``Optical readout of a triple-GEM detector by means of a CMOS sensor,''
+  Nucl.\ Instrum.\ Meth.\ A {\bf 824}, 562 (2016).
+  doi:10.1016/j.nima.2015.11.058
+  
+\bibitem{Pinci:2017goi}
+  D.~Pinci {\it et al.},
+  ``Cygnus: development of a high resolution TPC for rare events,''
+  PoS EPS {\bf -HEP2017} (2017) 077.
+  doi:10.22323/1.314.0077
+
+\bibitem{IEEE:Mazzitelli2017}
+    Mazzitelli, G. and E. Baracchini and M. Marafini and G.Cavoto and C. Voena and 
+    F. Renga and E. Di Marco and D. Pinci and S. Tomassini and C. V. Antiochi,
+    A high resolution TPC based on GEM optical readout, Under pubblication in IEEE Nuclear Science Symposuim Medical ImagingConference, 2017
+\bibitem{nim:pincielba}
+    D. Pinci, E. Baracchini, G. Cavoto, E. Di Marco, M. Marafini, G. Mazzitelli, F. Renga, S. Tomassini, C. Voena,
+    High resolution TPC based on optically readout GEM,
+    Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment,
+    2018, ISSN 0168-9002,https://doi.org/10.1016/j.nima.2018.11.085.
+    
+\bibitem{3dprinting} http://w3.lnf.infn.it/3d-printing-facility-lnf/
+
+
+\bibitem{bib:tesi}
+D. Pinci, “A triple-GEM detector for the muon system of the LHCb
+experiment,” CERN-THESIS-2006-070.
+
+\bibitem{ORCAcamera}
+http://www.hamamatsu.com/jp/en/C13440-20CU.html
+
+\bibitem{PMTPhotonics}
+http://www.hzcphotonics.com/products/XP3392.pdf
+
+\bibitem{bib:btf}
+    G.~Mazzitelli {\it et al}, 
+    `` Commissioning of the DA$\Phi$NE beam test facility''
+    Nucl. Instrum. Meth. A 515 (2003) 524–542.
+
+\bibitem{Vkraus}
+     V.~ Kraus et al., "FITPix — fast interface for Timepix pixel detectors" JINST  (2011) 6, C01079
+     
+
+
+%\cite{Buonomo:2017sdz}
+\bibitem{Buonomo:2017sdz}
+  B.~Buonomo, C.~Di Giulio, L.~G.~Foggetta and P.~Valente,
+  A Hardware and Software Overview on the New BTF Transverse Profile Monitor
+  doi:10.18429/JACoW-IBIC2016-WEPG73
+  %%CITATION = doi:10.18429/JACoW-IBIC2016-WEPG73;%%
+  
+  \bibitem{Buonomo:2017btf}
+  P. ~Valente, B. ~Buonomo, C.~ Di Giulio, and L.~G. ~Foggetta, “Frascati Beam-Test Facility (BTF) High Resolution Beam Spot Diagnostics”
+  %, in Proc. 5th Int. Beam Instrumentation Conf. (IBIC'16), Barcelona, Spain, Sep. 2016, paper MOPG65, pp. 222-225, ISBN: 978-3-95450-177-9,
+  doi:10.18429/JACoW-IBIC2016-MOPG65, %http://jacow.org/ibic2016/papers/mopg65.pdf, 2017.
+  
+
+  
+\bibitem{bib:tesicampagnola}
+R. Campagnola, “Study and optimization of the light-yield of a triple-GEM detector,” CERN-THESIS-2018-027- 83 p.
+
+\bibitem{bib:tesinatalia}
+N. Torchia, “Development of a tracker based on GEM optically readout,” CERN-THESIS-2016-335- 82 p.
+
+\bibitem{CAENN1570} http://www.caen.it/csite/CaenProd.jsp?parent=21\&idmod=894
+
+\bibitem{Corradi:2007df}
+  G.~Corradi, F.~Murtas and D.~Tagnani,
+  %``A novel high-voltage system for a triple https://www.overleaf.com/project/5e834ca65b31270001b4fb72GEM detector,''
+  Nucl.\ Instrum.\ Meth.\ A {\bf 572} (2007) 96.
+  doi:10.1016/j.nima.2006.10f.166
+  %%CITATION = doi:10.1016/j.nima.2006.10.166;%%
+  %19 citations counted in INSPIRE as of 08 Nov 2017
+
+%\bibitem{bib:fng}
+%     Martone, M., Angelone, M., Pillon, M., The 14 MeV Frascati neutron
+%     generator, Journal of Nuclear Materials 212-215(PART B), pp. 1661-1664 (1994)
+     
+\bibitem{bib:hough}
+ Duda, R. O. and P. E. Hart, "Use of the Hough Transformation to Detect Lines and Curves in Pictures," Comm. ACM, Vol. 15, pp. 11–15 (January, 1972)
+
+  \bibitem{bib:garfield}
+  R.~Veenhof,
+ ``GARFIELD, recent developments,''
+ Nucl.\ Instrum.\ Meth.\ A {\bf 419}, 726 (1998).
+ doi:10.1016/S0168-9002(98)00851-1
+ 
+ 
+
+%\cite{Costa:2019tnu}
+
+\bibitem{Costa:2019tnu}
+I.~A.~Costa {\it et al.},
+``Performance of Optically Readout GEM-based TPC with a 55Fe source,'' JINST  {\bf 14} (2019) no.07,  P07011
+doi:10.1088/1748-0221/14/07/P07011
+[arXiv:1905.04066 [physics.ins-det]].
+%0 citations counted in INSPIRE as of 01 Apr 2020
+
+
+%\bibitem{DRIFT1}
+%    Snowden-Ifft, D. P. and Martoff, C. J. and Burwell, J. M., "Low pressure negative ion time projection chamber for dark matter search"
+%    doi:10.1103/PhysRevD.61.101301 % https://link.aps.org/doi/10.1103/PhysRevD.61.101301
+
+
+\end{thebibliography}
